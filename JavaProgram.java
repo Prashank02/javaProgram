@@ -1,5 +1,5 @@
 class Prashank
 public static void main string args []
 {
-	print("Hello world");
+	system.out.println("Hello world");
 }
